@@ -3,7 +3,7 @@ Tail.py
 
 This is a small `tail` like program that should be system independent (should work on Windows, Linux and Mac).
 
-Currently it simply outputs last line of file and observes the file continuously until your press `CTRL+Z`.
+Currently it simply outputs last line of file and observes the file continuously until your press `CTRL+C`.
 
 Usage
 -----
